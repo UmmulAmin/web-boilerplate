@@ -103,3 +103,4 @@ cp footer.jpeg images
 cd ..
 cd website
 cd images
+ls --color=auto
