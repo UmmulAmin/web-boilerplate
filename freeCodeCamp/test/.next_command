@@ -205,3 +205,4 @@ pwd
 cd project
 cd website
 ls --color=auto
+find -name images
