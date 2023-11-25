@@ -94,3 +94,5 @@ ls --color=auto
 __vsc_prompt_cmd_original
 cd ..
 ls --color=auto
+__vsc_prompt_cmd_original
+rm background.jpg
