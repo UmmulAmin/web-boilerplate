@@ -195,3 +195,12 @@ ls --color=auto
 mv header.png ..
 l
 ls --color=auto
+cd
+cd ..
+pwd
+cd project
+ls --color=auto
+cd codeally
+pwd
+cd project
+cd website
