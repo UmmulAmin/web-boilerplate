@@ -204,3 +204,4 @@ cd codeally
 pwd
 cd project
 cd website
+ls --color=auto
