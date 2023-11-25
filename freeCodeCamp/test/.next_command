@@ -277,3 +277,4 @@ ls --color=auto
 mv website website-boilerplate
 ls --color=auto
 cp --help
+cp -R website-boilerplate toms-website
