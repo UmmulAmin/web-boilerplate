@@ -279,3 +279,6 @@ ls --color=auto
 cp --help
 cp -R website-boilerplate toms-website
 ls --color=auto
+find
+find -name toms-website
+find toms-website
